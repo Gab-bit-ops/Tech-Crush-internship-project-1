@@ -59,7 +59,7 @@ What proportion of sales comes from each payment method?
 These questions helped move the project beyond basic data visualization toward business-oriented analysis.
 
 # 📈 Dashboard & Visualization
-The final analysis was transformed into an interactive Retail Sales Analysis Dashboard using Microsoft Excel 2016.
+The final analysis was transformed into an interactive Retail Sales Analysis Dashboard using Microsoft Excel.
 The dashboard contains four key performance indicators:
 KPI
 Result
