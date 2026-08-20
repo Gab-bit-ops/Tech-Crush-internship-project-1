@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Analysis
+# 🛒 Retail Store Sales Analysis
 # 📌 Project Overview
 
 This project focuses on the cleaning, validation, analysis, and visualization of a retail sales dataset using Microsoft Excel.
